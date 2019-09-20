@@ -3,6 +3,6 @@ package test
 class HelloController {
 
     def index() {
-        render("hello dear")
+        render("hello dear vineet")
     }
 }
